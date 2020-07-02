@@ -8,7 +8,7 @@ israel.rb is the Ruby meetup for the Israeli Ruby community. We meet regularly a
 
 Our primary supporters are [Vonage](https://developer.nexmo.com) and [Cloudinary](https://cloudinary.com).
 
-To get involved in the community, please consider joining our [Facebook grou[](https://www.facebook.com/groups/272757750683415).
+To get involved in the community, please consider joining our [Facebook group](https://www.facebook.com/groups/272757750683415).
 
 You can find the following resources here:
 
