@@ -1,4 +1,4 @@
-# israelrb
+# israel.rb
 
 israel.rb is the Ruby meetup for the Israeli Ruby community. We meet regularly alternating locations throughout the country. During coornavirus we meet regularly virtually.
 
